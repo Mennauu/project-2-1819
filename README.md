@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://browser-technologies-1819.herokuapp.com/">
+  <a href="https://volkswagen-improvements.herokuapp.com/">
     <img src="https://img.shields.io/badge/demo-LIVE-brightgreen.svg?style=flat-square" alt="demo">
   </a>
 </p> 
