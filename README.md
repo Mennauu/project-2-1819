@@ -12,6 +12,8 @@
 
 <br>
 
+![preview](readme-assets/preview.png)
+
 ## Introduction
 Performance and accessibility improvements are made for the volkswagen.nl website as part of a course from [@cmda-minor-web 18-19](https://github.com/cmda-minor-web/browser-technologies-1819).
 
